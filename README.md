@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! I', Jiya Mary Joby, currently pursuing Btech in Computer Science and Engineering 
 
 <!--
 **jiya42/jiya42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
